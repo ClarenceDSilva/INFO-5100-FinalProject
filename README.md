@@ -1,3 +1,3 @@
 # WildLifeManagementSystem
-Java Swing based project
-Course: INFO 5100: Application Engineering and Development
+Java Swing based project  
+__Course:__ INFO 5100: Application Engineering and Development
